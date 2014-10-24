@@ -1,8 +1,13 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
 #window {
 	width: 756px;
 	position: relative;
-	left: 240px;
-	height: 1000px;
+	margin: 0 auto;
 }
 
 
